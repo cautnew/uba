@@ -1,0 +1,1 @@
+nesse arquivo estamos testando as funcionalidades do Git
