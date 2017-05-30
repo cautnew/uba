@@ -1,1 +1,2 @@
 nesse arquivo estamos testando as funcionalidades do Git
+testando uma funcionalidade do git
